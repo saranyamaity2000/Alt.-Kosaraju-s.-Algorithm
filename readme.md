@@ -8,7 +8,13 @@ way from atleast one of (A , B , C)
 
 if the explanation is bit uneasy please refer the code !
 
-The Solution is presented by me only but I can not gaurantee if I am the first
+The Solution is presented by me only but I am not pretending to be the first
 one to use this approach
+
+After Solving KOSARAJU'S problem in GFG , i just happened to check the
+solution and found the editorial to be tougher than mine.
+
+Thats why I am sharing my solution if bychance somebody is looking for an 
+easy solution 
 
 Have A Nice Day ! 😇
